@@ -5,7 +5,7 @@
 ---
 
 # 🚀 learn-computer-science
-### I take online courses and review them here.
+### I take online courses and review them here. 💥
 
 Courses I'm currently taking:  
 * Programming Languages, Part A, _(University of Washington CSE341)_
