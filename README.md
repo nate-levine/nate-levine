@@ -8,7 +8,7 @@
 ### I take online courses and review them here. 💥
 
 Courses I'm currently taking:  
-* Programming Languages, Part A, _(University of Washington CSE341)_
+* Programming Languages A, B, & C, _(University of Washington CSE341)_
   
 Courses I've completed:  
 * 🧪 Systematic Program Design, _(UBC CPSC110)_
