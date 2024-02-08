@@ -7,10 +7,11 @@
 # 🚀 learn-computer-science
 ### I take online courses and review them here. 💥
 
-Courses I'm currently taking:  
-* Programming Languages A, B, & C, _(University of Washington CSE341)_
+Course I'm currently taking:  
+* ♨️ Object-oriented Design, _(University of ALberta ECE325)_
   
 Courses I've completed:  
-* 🧪 Systematic Program Design, _(UBC CPSC110)_
+* 🧪 Programming Languages A, B, & C, _(University of Washington CSE341)_
+* 📏 Systematic Program Design, _(UBC CPSC110)_
 * 👨‍💻 Introduction to Computer Science, _(MIT 6.0001)_
 * 🐍 Introduction to Programming with Python, _(Harvard CS50P)_
