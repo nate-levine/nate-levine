@@ -8,7 +8,7 @@
 ### I take online courses and review them here. 💥
 
 Course I'm currently taking:  
-* ♨️ Object-oriented Design, _(University of ALberta ECE325)_
+* ♨️ Object-oriented Design, _(University of Alberta ECE325)_
   
 Courses I've completed:  
 * 🧪 Programming Languages A, B, & C, _(University of Washington CSE341)_
