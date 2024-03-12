@@ -21,4 +21,4 @@ Courses I've completed:
 ---
 
 # 🌐 Portfolio Website
-View my project portfolio at [nate-levine.com](https://www.nate-levine.com/)
+View my project portfolio at [nate-levine.com](https://www.nate-levine.com/) _(Currently being redeveloped)_.
