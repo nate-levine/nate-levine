@@ -6,7 +6,7 @@
 ---
 
 # 🚀 learn-computer-science
-### I take online courses and review them here. 💥
+### I take online courses and review them [here](https://github.com/nate-levine/learn-computer-science/blob/main/README.md). 💥
 
 Course I'm currently taking:  
 * 🧮 Mathematics for Computer Science, _(MIT 6.042)_
