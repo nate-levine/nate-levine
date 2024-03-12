@@ -9,9 +9,10 @@
 ### I take online courses and review them here. 💥
 
 Course I'm currently taking:  
-* ♨️ Object-Oriented Design, Design Patterns, & Software Architecture, _(University of Alberta)_
+* 🧮 Mathematics for Computer Science, _(MIT 6.042)_
   
 Courses I've completed:  
+* ♨️ Object-Oriented Design, Design Patterns, & Software Architecture, _(University of Alberta)_
 * 🧪 Programming Languages A, B, & C, _(University of Washington CSE341)_
 * 📏 Systematic Program Design, _(UBC CPSC110)_
 * 👨‍💻 Introduction to Computer Science, _(MIT 6.0001)_
