@@ -18,6 +18,9 @@ Courses I've completed:
 * 👨‍💻 Introduction to Computer Science, _(MIT 6.0001)_
 * 🐍 Introduction to Programming with Python, _(Harvard CS50P)_
 
+Books I've reviewed:
+* 📚 Design Patterns - Elements of Reusable Object-Oriented Software (Extra Reading)
+
 ---
 
 # 🌐 Portfolio Website
