@@ -24,4 +24,4 @@ Books I've reviewed:
 ---
 
 # 🌐 Portfolio Website
-View my project portfolio at [nate-levine.com](https://www.nate-levine.com/) _(Currently being redeveloped)_.
+View my project portfolio at [nate-levine.com](https://www.nate-levine.com/) _(Currently being redeveloped, check its status in the nate-levine.com repository)_.
