@@ -5,6 +5,11 @@
 
 ---
 
+# 🌐 Portfolio Website
+View my project portfolio at [nate-levine.com](https://www.nate-levine.com/)
+
+---
+
 # 🚀 learn-computer-science
 ### I take online courses and review them [here](https://github.com/nate-levine/learn-computer-science/blob/main/README.md). 💥
 
@@ -20,8 +25,3 @@ Courses I've completed:
 
 Books I've reviewed:
 * 📚 Design Patterns - Elements of Reusable Object-Oriented Software
-
----
-
-# 🌐 Portfolio Website
-View my project portfolio at [nate-levine.com](https://www.nate-levine.com/) _(Currently being redeveloped, check its status in the nate-levine.com repository)_.
