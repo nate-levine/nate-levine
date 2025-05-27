@@ -25,7 +25,7 @@ Courses I've completed:
 
 (Not self-taught) Courses I've taken as part of my computer science minor at WPI:
 * Intro to Programming for Non-Majors _(WPI CS1004)_
-* System Programming for Non-Majors _(WPI CS2301)_
+* Systems Programming for Non-Majors _(WPI CS2301)_
 * Discrete Mathematics _(WPI CS2022)_
 * Database Systems I _(WPI CS3431)_
 * Algorithms _(WPI CS2223)_
