@@ -1,7 +1,6 @@
 # 👋 Current Active Repositories
-* learn-computer-science*
 * nate-levine.com*
-###### _*Of interest to employers_
+###### _*Of interest to anyone with eyes_
 
 ---
 
