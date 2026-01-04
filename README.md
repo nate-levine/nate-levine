@@ -1,11 +1,11 @@
 # 👋 Current Active Repositories
-* nate-levine.com*
+* natelevine.dev
 ###### _*Of interest to anyone with eyes_
 
 ---
 
 # 🌐 Portfolio Website
-View my project portfolio at [nate-levine.com](https://www.nate-levine.com/)
+View my project portfolio at [natelevine.dev](https://www.natelevine.dev/)
 
 ---
 
