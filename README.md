@@ -12,9 +12,6 @@ View my project portfolio at [natelevine.dev](https://www.natelevine.dev/)
 # 🚀 learn-computer-science
 ### I take online courses and review them [here](https://github.com/nate-levine/learn-computer-science/blob/main/README.md). 💥
 
-Courses I'm currently taking:  
-* 🧮 Mathematics for Computer Science, _(MIT 6.042)_
-  
 Courses I've completed:  
 * ♨️ Object-Oriented Design, Design Patterns, & Software Architecture, _(University of Alberta)_
 * 🧪 Programming Languages A, B, & C, _(University of Washington CSE341)_
